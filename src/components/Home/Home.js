@@ -1,6 +1,5 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
-import useReview from '../../hook/useReview';
 import Review from '../Review/Review';
 import './Home.css'
 

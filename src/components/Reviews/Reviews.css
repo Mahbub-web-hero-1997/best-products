@@ -1,3 +1,7 @@
 .reviews-section {
     margin-top: 25px;
 }
+
+.reviews-section h1 {
+    color: #22bedd;
+}
