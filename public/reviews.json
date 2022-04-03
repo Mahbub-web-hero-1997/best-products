@@ -1,0 +1,38 @@
+[
+    {
+        "id": 1,
+        "name": "Johan",
+        "comment": "WOW - What a camera! Everything I wanted the R to be an more.",
+        "img": "https://images.pexels.com/photos/5331864/pexels-photo-5331864.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=22.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8d3Jpc3R3YXRjaHxlbnwwfHwwfHw%3D&w=1000&q=80"
+    },
+    {
+        "id": 2,
+        "name": "Toom Harry",
+        "comment": "Excellent photograph camera. Less like a pro video camera",
+        "img": "https://images.pexels.com/photos/5331864/pexels-photo-5331864.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=22.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8d3Jpc3R3YXRjaHxlbnwwfHwwfHw%3D&w=1000&q=80"
+    },
+    {
+        "id": 3,
+        "name": "Harry",
+        "comment": "WOW - What a camera! Everything I wanted the R to be an more.",
+        "img": "https://images.pexels.com/photos/5331864/pexels-photo-5331864.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=22.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8d3Jpc3R3YXRjaHxlbnwwfHwwfHw%3D&w=1000&q=80"
+    },
+    {
+        "id": 4,
+        "name": "Wilium",
+        "comment": "WOW - What a camera! Everything I wanted the R to be an more.",
+        "img": "https://images.pexels.com/photos/5331864/pexels-photo-5331864.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=22.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8d3Jpc3R3YXRjaHxlbnwwfHwwfHw%3D&w=1000&q=80"
+    },
+    {
+        "id": 5,
+        "name": "Trump",
+        "comment": "WOW - What a camera! Everything I wanted the R to be an more.",
+        "img": "https://images.pexels.com/photos/5331864/pexels-photo-5331864.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=22.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8d3Jpc3R3YXRjaHxlbnwwfHwwfHw%3D&w=1000&q=80"
+    },
+    {
+        "id": 6,
+        "name": "Mahbub",
+        "comment": "WOW - What a camera! Everything I wanted the R to be an more.",
+        "img": "https://images.pexels.com/photos/5331864/pexels-photo-5331864.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=22.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8d3Jpc3R3YXRjaHxlbnwwfHwwfHw%3D&w=1000&q=80"
+    }
+]

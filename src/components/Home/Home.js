@@ -1,4 +1,7 @@
 import React from 'react';
+import { Link } from 'react-router-dom';
+import useReview from '../../hook/useReview';
+import Review from '../Review/Review';
 import './Home.css'
 
 const Home = () => {
@@ -13,14 +16,18 @@ const Home = () => {
                     <img src="https://images.pexels.com/photos/2873486/pexels-photo-2873486.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2" alt="" />
                 </div>
             </div>
-            <button class="cta">
-                <span>See all reviews</span>
-                <svg viewBox="0 0 13 10" height="10px" width="15px">
-                    <path d="M1,5 L11,5"></path>
-                    <polyline points="8 1 12 5 8 9"></polyline>
-                </svg>
-            </button>
-        </div>
+            <h1 className='review_Title'>Reviews</h1>
+            <Review></Review>
+            <Link to='/reviews'>
+                <button className="cta">
+                    <span>See all reviews</span>
+                    <svg viewBox="0 0 13 10" height="10px" width="15px">
+                        <path d="M1,5 L11,5"></path>
+                        <polyline points="8 1 12 5 8 9"></polyline>
+                    </svg>
+                </button>
+            </Link>
+        </div >
     );
 };
 
