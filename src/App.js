@@ -16,9 +16,9 @@ function App() {
         <Route path='/reviews' element={<Reviews></Reviews>}></Route>
         <Route path='/dashboard' element={<Dashboard></Dashboard>}></Route>
         <Route path='/about' element={<Blogs></Blogs>}></Route>
-
       </Routes>
     </div>
+
   );
 }
 
