@@ -1,16 +1,16 @@
-# Getting Started with Create React App
+# Welcome To My Web Application
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+My Project Live Line [https://ephemeral-entremet-823bae.netlify.app/].
 
-## Available Scripts
+## Projects Overview
+
+In the project directory, you can see:
 
 - A Navigation bar
 - Home
 - Review
 - Dashboard
 - Blogs 
-
-### `npm start`
 
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
