@@ -8,9 +8,16 @@ In the project directory, you can see:
 
 - A Navigation bar
 - Home
+    - In the home section. There are two things. 1) Banner section 2) simple review
+        
 - Review
+    - There is 6 reviews in review section.
 - Dashboard
+    - There are two chart.
 - Blogs 
+    - There are two Questions 
+
+
 
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
