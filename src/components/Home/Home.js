@@ -9,14 +9,14 @@ const Home = () => {
             <div className='home_Container'>
                 <div className="title_section">
                     <h1>CANON EOS 5D MARK-II</h1>
-                    <p>The Canon 5D Mark II is the world's best DSLR for nature and landscape shooting because its technical performance is as good or better than competitive cameras that cost up to three times as much, and because it weighs so much less than other full-frame DSLRs.</p>
+                    <p>The Canon 5D Mark II is the world's best Camera for nature and landscape shooting because its technical performance is as good or better than competitive cameras that cost up to three times as much, and because it weighs so much less than other full-frame Camera.</p>
                 </div>
                 <div className="banner_section">
                     <img src="https://images.pexels.com/photos/2873486/pexels-photo-2873486.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2" alt="" />
                 </div>
             </div>
             <h1 className='review_Title'>Reviews</h1>
-            <SliceReviews></SliceReviews>            
+            <SliceReviews></SliceReviews>
             <Link to='/reviews'>
                 <button className="cta">
                     <span>See all reviews</span>
