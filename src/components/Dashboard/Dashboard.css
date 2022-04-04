@@ -1,0 +1,13 @@
+.chart_Container {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 25px;
+}
+
+.Line_Chart {
+    color: red;
+}
+
+.chart_Container h1 {
+    color: #22bedd;
+}
