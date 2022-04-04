@@ -64,8 +64,8 @@ const Dashboard = () => {
                 <h1>Investment vs revenue</h1>
                 <BarChart width={500} height={400} data={item}>
                     <CartesianGrid strokeDasharray="3 3" />
-                    <XAxis dataKey="name" />
-                    <YAxis />
+                    <XAxis dataKey="revenue" />
+                    <YAxis dataKey="investment" />
                     <Tooltip />
                     <Legend />
                     <Bar dataKey="investment" fill="#8884d8" />
