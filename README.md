@@ -11,7 +11,7 @@ In the project directory, you can see:
     - In the home section. There are two things. 1) Banner section 2) simple review
         
 - Review
-    - There is 6 reviews in review section.
+    - There are 6 reviews in review section.
 - Dashboard
     - There are two chart.
 - Blogs 
