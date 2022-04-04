@@ -1,6 +1,5 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
-import Review from '../Review/Review';
 import SliceReviews from '../SliceReviews/SliceReviews'
 import './Home.css'
 
@@ -17,8 +16,7 @@ const Home = () => {
                 </div>
             </div>
             <h1 className='review_Title'>Reviews</h1>
-            <SliceReviews></SliceReviews>
-            {/* <Review></Review> */}
+            <SliceReviews></SliceReviews>            
             <Link to='/reviews'>
                 <button className="cta">
                     <span>See all reviews</span>
