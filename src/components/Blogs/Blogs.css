@@ -1,0 +1,16 @@
+.blogs_Container {
+    display: flex;
+    justify-content: space-evenly;
+    padding: 0px 30px;
+    margin: 15px;
+}
+
+.blog {
+    width: 450px;
+    text-align: left;
+    padding: 15px;
+    color: #22bedd;
+    font-size: 18px;
+    line-height: 30px;
+    letter-spacing: 1px;
+}

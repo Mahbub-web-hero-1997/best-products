@@ -1,5 +1,4 @@
-import React, { useEffect, useState } from 'react';
-import { Bar, BarChart, CartesianGrid, Legend, Line, LineChart, Pie, PieChart, Tooltip, XAxis, YAxis } from 'recharts';
+import { Bar, BarChart, CartesianGrid, Legend, Line, LineChart, Tooltip, XAxis, YAxis } from 'recharts';
 import './Dashboard.css'
 
 const Dashboard = () => {
@@ -53,7 +52,7 @@ const Dashboard = () => {
                 <h1>Month wise sell</h1>
                 <LineChart className='Line_Chart' width={500} height={400} data={item}
                     margin={{ top: 5, right: 30, left: 20, bottom: 5 }}>
-                    <CartesianGrid strokeDasharray="3 3" />
+                    <CartesianGrid strokeDasharray="1 1" />
                     <XAxis dataKey="month" />
                     <YAxis dataKey={'sell'} />
                     <Tooltip />
